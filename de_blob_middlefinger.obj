@@ -1,7 +1,7 @@
 # Blender 4.5.4 LTS
 # www.blender.org
 mtllib de_blob_middlefinger.mtl
-o de_blob_mesh.001
+o Mesh
 v 0.000001 13.125800 0.343494
 v 1.283525 12.754317 3.076730
 v 0.000001 12.754317 3.334869
