@@ -1,7 +1,7 @@
 # Blender 4.5.4 LTS
 # www.blender.org
 mtllib deblorb2.mtl
-o de_blob_mesh.001
+o Mesh
 v -0.382677 13.083323 -0.258355
 v 1.788553 12.922931 1.866744
 v 0.677586 12.932926 2.559365
